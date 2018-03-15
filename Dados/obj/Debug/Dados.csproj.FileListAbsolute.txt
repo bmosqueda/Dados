@@ -1,0 +1,10 @@
+C:\Users\brand\source\repos\Dados\Dados\bin\Debug\Dados.exe.config
+C:\Users\brand\source\repos\Dados\Dados\bin\Debug\Dados.exe
+C:\Users\brand\source\repos\Dados\Dados\bin\Debug\Dados.pdb
+C:\Users\brand\source\repos\Dados\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\brand\source\repos\Dados\Dados\obj\Debug\Dados.Form1.resources
+C:\Users\brand\source\repos\Dados\Dados\obj\Debug\Dados.Properties.Resources.resources
+C:\Users\brand\source\repos\Dados\Dados\obj\Debug\Dados.csproj.GenerateResource.Cache
+C:\Users\brand\source\repos\Dados\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\Dados\Dados\obj\Debug\Dados.exe
+C:\Users\brand\source\repos\Dados\Dados\obj\Debug\Dados.pdb
